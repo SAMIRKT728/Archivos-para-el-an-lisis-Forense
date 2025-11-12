@@ -1,0 +1,81 @@
+id_empleado,nombre,cargo,dependencia,nivel_riesgo,estado
+E001,Juan Pérez,Director Contratación,Secretaría de Salud,Alto,Activo
+E002,Ana Rojas,Auxiliar Financiera,Tesorería,Medio,Activo
+E003,Carlos Díaz,Revisor Fiscal,Control Interno,Alto,Activo
+E004,Lucía Méndez,Jefe de Compras,Secretaría de Salud,Alto,Activo
+E005,Pedro Gómez,Técnico Suministros,Almacén,Bajo,Activo
+E006,Antonio César Rentería,Contador,Almacén,Bajo,Activo
+E007,María Peña Daza,Analista de Contratos,Control Interno,Bajo,Activo
+E008,Miguel Rodríguez Torres,Tesorero,Financiera,Alto,Activo
+E009,Fernanda Sandra Castrillón Soto,Contador,Tesorería,Medio,Inactivo
+E010,Esther Ceballos Guerrero,Secretario/a,Secretaría de Salud,Bajo,Activo
+E011,Fernando Ruiz Granados,Secretario/a,Almacén,Medio,Activo
+E012,Johan William Ruiz Narváez,Auditor Interno,Tesorería,Alto,Activo
+E013,Alejandro Gamboa Mantilla,Auditor Interno,Secretaría de Salud,Alto,Activo
+E014,María María Villamil Sánchez,Asistente Administrativo,Tesorería,Medio,Activo
+E015,Leonor Gaviria,Secretario/a,Secretaría de Salud,Medio,Activo
+E016,Julieth Ángela Suárez Quiroz,Tesorero,Control Interno,Medio,Activo
+E017,Yolanda Sara Valencia Sánchez,Secretario/a,Control Interno,Bajo,Activo
+E018,Ernesto Gómez,Tesorero,Tesorería,Medio,Activo
+E019,Rigoberto Edwin Arrieta,Contador,Control Interno,Alto,Activo
+E020,Luis Chávez Moreno,Analista de Contratos,Secretaría de Salud,Bajo,Activo
+E021,Lisbeth Patricia Rangel,Auditor Interno,Almacén,Medio,Activo
+E022,María Francy Rosero Flórez,Tesorero,Control Interno,Alto,Activo
+E023,Martín Junior Gómez,Secretario/a,Financiera,Alto,Activo
+E024,Anyi Adriana Murcia,Analista de Contratos,Almacén,Bajo,Activo
+E025,José Jaramillo,Auditor Interno,Financiera,Bajo,Activo
+E026,Jesús Díaz,Analista de Contratos,Tesorería,Alto,Activo
+E027,Marcela Cuéllar Ballesteros,Tesorero,Almacén,Medio,Activo
+E028,Dario Sánchez,Secretario/a,Tesorería,Bajo,Activo
+E029,Francisco Mejía,Asistente Administrativo,Tesorería,Medio,Inactivo
+E030,Raúl Pérez,Asistente Administrativo,Financiera,Alto,Activo
+E031,Fredy Mesa Rincón,Contador,Secretaría de Salud,Medio,Activo
+E032,Alfonso Rivera Zapata,Asistente Administrativo,Almacén,Medio,Activo
+E033,Stiven Orozco Rojas,Asistente Administrativo,Tesorería,Bajo,Activo
+E034,José Narváez,Secretario/a,Almacén,Medio,Activo
+E035,Daniel Córdoba,Contador,Financiera,Bajo,Activo
+E036,Ismael Pérez Salazar,Contador,Tesorería,Medio,Activo
+E037,Cristina Karen Trujillo,Asistente Administrativo,Tesorería,Bajo,Activo
+E038,Felipe Córdoba,Contador,Financiera,Alto,Activo
+E039,Jorge Gil,Asistente Administrativo,Control Interno,Medio,Activo
+E040,Armando Ángel Ibarra,Tesorero,Control Interno,Alto,Activo
+E041,Fernando Patiño Salas,Secretario/a,Secretaría de Salud,Alto,Activo
+E042,Juan Antonio Jiménez,Analista de Contratos,Financiera,Bajo,Activo
+E043,Alberto Andrés Muñoz,Asistente Administrativo,Control Interno,Bajo,Activo
+E044,Pablo Jaime Meneses Figueroa,Tesorero,Tesorería,Medio,Activo
+E045,Fernando Fernando Méndez Guerrero,Contador,Almacén,Medio,Inactivo
+E046,Alexandra Milena Guzmán,Asistente Administrativo,Tesorería,Medio,Activo
+E047,Dario Pérez,Secretario/a,Control Interno,Bajo,Activo
+E048,Karen Galvis,Contador,Almacén,Alto,Activo
+E049,Héctor Miguel Zambrano Ávila,Analista de Contratos,Financiera,Medio,Activo
+E050,Alfonso Sanabria,Asistente Administrativo,Control Interno,Medio,Activo
+E051,Edwar Granados,Contador,Tesorería,Bajo,Inactivo
+E052,Ángel González,Analista de Contratos,Control Interno,Bajo,Activo
+E053,María Yaneth Martínez,Secretario/a,Tesorería,Medio,Activo
+E054,Alberto Quiroga,Contador,Tesorería,Alto,Activo
+E055,Alba Heidy Hernández Muñoz,Secretario/a,Secretaría de Salud,Medio,Activo
+E056,Orlando López Muñoz,Secretario/a,Secretaría de Salud,Medio,Activo
+E057,Uriel Sierra,Auditor Interno,Secretaría de Salud,Medio,Activo
+E058,Gladys Tamayo,Auditor Interno,Tesorería,Alto,Activo
+E059,Mercedes Nelly Bejarano,Contador,Control Interno,Medio,Activo
+E060,Andrés Beltrán Bernal,Auditor Interno,Almacén,Bajo,Activo
+E061,Alexandra Milena Martínez Díaz,Secretario/a,Secretaría de Salud,Bajo,Activo
+E062,Héctor Antonio Perdomo Sánchez,Asistente Administrativo,Almacén,Medio,Activo
+E063,Laura Isabel Castro,Asistente Administrativo,Control Interno,Alto,Activo
+E064,Natalia Vargas Amaya,Tesorero,Control Interno,Bajo,Activo
+E065,Arturo Mario Bonilla Orjuela,Tesorero,Tesorería,Alto,Activo
+E066,Daniel Antonio Cardona,Analista de Contratos,Control Interno,Alto,Activo
+E067,Mireya Cardona,Auditor Interno,Secretaría de Salud,Bajo,Inactivo
+E068,Dario Valencia Muñoz,Analista de Contratos,Almacén,Alto,Activo
+E069,Ximena Yenifer Delgado,Secretario/a,Tesorería,Bajo,Activo
+E070,Teresa Velásquez Pinzón,Analista de Contratos,Almacén,Alto,Activo
+E071,Germán Vásquez Ortega,Asistente Administrativo,Control Interno,Bajo,Activo
+E072,Alba Pineda Mercado,Secretario/a,Control Interno,Medio,Activo
+E073,Liliana Angie López,Analista de Contratos,Tesorería,Alto,Activo
+E074,Stella Ortiz,Asistente Administrativo,Tesorería,Medio,Activo
+E075,Manuel Rubio López,Asistente Administrativo,Almacén,Medio,Activo
+E076,Cristian López Lara,Asistente Administrativo,Almacén,Alto,Activo
+E077,Patricia Yaneth Ortiz Torres,Contador,Almacén,Alto,Activo
+E078,Magda Carvajal Orozco,Secretario/a,Secretaría de Salud,Alto,Activo
+E079,Antonio Miguel Galvis,Contador,Financiera,Alto,Activo
+E080,Eduardo Álvarez,Tesorero,Control Interno,Medio,Activo

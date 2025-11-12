@@ -1,0 +1,201 @@
+id_proveedor,nombre_empresa,tipo_empresa,ciudad,representante,estado
+P001,Clínica Norte S.A.,Prestador de salud,Valledupar,Luis Rincón,Activo
+P002,MedSupply Ltd.,Distribuidor médico,Bogotá,Carlos Rivas,Activo
+P003,FarmaTotal S.A.S.,Proveedor insumos,Medellín,Diana Cárdenas,Activo
+P004,Dotaciones Globales,Distribuidor,Bucaramanga,María Vélez,Activo
+P005,Contreras-Ramírez LLC,Servicios,Cartagena,María Andrea Romero,Activo
+P006,Arévalo PLC Ltd,Transporte,Cartagena,Roberto Jesús Torres Leal,Inactivo
+P007,Sánchez-Peña and Sons,Distribuidor,Barranquilla,Luz Martha Trujillo Narváez,Activo
+P008,Daza-Ortega and Sons,Consultoría,Cali,Felipe Gustavo Acosta,Activo
+P009,Ávila-Vásquez Inc,Proveedor insumos,Bogotá,Marcela Anaya Jiménez,Activo
+P010,Acosta Ltd PLC,Distribuidor,Medellín,María Palacios,Inactivo
+P011,Duarte-Vargas and Sons,Transporte,Cali,Estiven Aguilar Medina,Activo
+P012,Meneses-Zuluaga Group,Servicios,Valledupar,Fernanda María Ramírez Rangel,Inactivo
+P013,Fernández-Vega Group,Servicios,Cali,Jorge Quintero Molina,Inactivo
+P014,Martínez-Mora PLC,Proveedor insumos,Barranquilla,Juan Juan Reyes Martínez,Inactivo
+P015,Rodríguez and Sons and Sons,Servicios,Barranquilla,Elena Quintero,Activo
+P016,Gutiérrez Group Group,Proveedor insumos,Valledupar,Christian Fabián Rodríguez,Activo
+P017,Acosta PLC Group,Distribuidor,Cali,Felipe Vargas Castillo,Activo
+P018,Quintero Inc Inc,Consultoría,Barranquilla,Jhon Jorge López,Activo
+P019,"Vargas, Padilla and Andrade Inc",Transporte,Valledupar,María Diana Arias Escobar,Activo
+P020,Córdoba Ltd Inc,Servicios,Valledupar,Luis Quintero Arias,Activo
+P021,Ríos Group Ltd,Transporte,Bogotá,Jimena Luisa Díaz Cáceres,Activo
+P022,"Morales, Muñoz and Castillo Inc",Consultoría,Barranquilla,Gladys Mary Velasco Escobar,Activo
+P023,Restrepo-Morales Group,Consultoría,Cartagena,Alexandra Juliana Morales,Activo
+P024,Morales-Pedraza Inc,Transporte,Valledupar,Jessica Orozco,Activo
+P025,Guzmán Inc LLC,Transporte,Bogotá,Tania Margarita Díaz Díaz,Activo
+P026,Sánchez Group PLC,Transporte,Bogotá,Miguel Villa,Activo
+P027,Suárez LLC PLC,Consultoría,Valledupar,Arturo Didier Salcedo López,Inactivo
+P028,"Suárez, Alvarado and Villamizar Inc",Servicios,Cali,Augusto Luna,Activo
+P029,Benítez-Martínez Ltd,Consultoría,Cali,Luisa Castro Ramírez,Activo
+P030,Núñez-Torres LLC,Transporte,Bogotá,Beatriz Olga Velasco,Activo
+P031,"Polo, Pacheco and Forero LLC",Servicios,Cali,Leonardo Guzmán,Inactivo
+P032,"Duarte, García and Castellanos Ltd",Distribuidor,Medellín,Cecilia Elizabeth Restrepo,Activo
+P033,García Inc Ltd,Transporte,Cali,Edgar Juan Guerrero Bermúdez,Inactivo
+P034,Cárdenas and Sons Inc,Servicios,Valledupar,Jorge Orlando García Herrera,Inactivo
+P035,Ramos-Rodríguez Ltd,Consultoría,Bogotá,Hernán Flórez Ayala,Activo
+P036,"Gómez, Montes and Quintero Group",Transporte,Valledupar,Álvaro Vargas Aguirre,Activo
+P037,"Sandoval, Silva and Hernández Inc",Distribuidor,Cartagena,Lilia Stella Ruiz Rodríguez,Activo
+P038,Escobar Group Group,Proveedor insumos,Valledupar,Santiago Cardona,Activo
+P039,Rodríguez-Becerra and Sons,Distribuidor,Bogotá,Marcos Jaimes,Activo
+P040,"Yepes, Zapata and López Group",Consultoría,Medellín,Aníbal Alfonso Zuluaga,Activo
+P041,García-Muñoz LLC,Distribuidor,Bogotá,Hilda Camila Camargo,Activo
+P042,Montenegro PLC Group,Proveedor insumos,Medellín,Antonio Armando Sánchez,Activo
+P043,Díaz-Niño Ltd,Distribuidor,Cali,Olga Rodríguez Trujillo,Activo
+P044,"Salcedo, Díaz and Santos LLC",Transporte,Barranquilla,Beatriz Vargas Ayala,Activo
+P045,"Molano, Fonseca and Díaz LLC",Consultoría,Cartagena,Hernán José García Rincón,Activo
+P046,Gómez-Becerra PLC,Proveedor insumos,Valledupar,Nelly Lina Henao Gutiérrez,Activo
+P047,"Niño, Zambrano and Jaramillo Ltd",Proveedor insumos,Medellín,Juan Buitrago Arias,Activo
+P048,"Sierra, Montoya and Gómez Group",Servicios,Medellín,Rosa Barrera,Activo
+P049,Romero-Díaz Inc,Distribuidor,Medellín,Nubia Morales Ramos,Activo
+P050,Jiménez LLC LLC,Servicios,Bogotá,Elena Marina Ramírez Ortega,Activo
+P051,"Chacón, Zapata and Santos Inc",Transporte,Valledupar,Elena Ojeda Manrique,Activo
+P052,"Ramírez, Correa and Castaño PLC",Distribuidor,Valledupar,César Manuel Cano,Activo
+P053,Ospino Inc and Sons,Proveedor insumos,Barranquilla,Victoria Eugenia Ceballos,Activo
+P054,"Martínez, Rivera and Durán Inc",Distribuidor,Cali,Alexander Herrera,Activo
+P055,Cardona PLC PLC,Servicios,Valledupar,Rafael Manuel Díaz Castro,Activo
+P056,Bernal-Escobar PLC,Proveedor insumos,Barranquilla,Gloria Luz Guerrero Martínez,Inactivo
+P057,Gómez-Guevara and Sons,Servicios,Bogotá,Argemiro Carlos Ramírez,Activo
+P058,"González, Agudelo and Manrique PLC",Servicios,Barranquilla,Alexander Amaya Córdoba,Activo
+P059,Restrepo-Mendoza PLC,Proveedor insumos,Cali,Eugenia Yamile Serrano Cantillo,Activo
+P060,Rojas-Hernández PLC,Consultoría,Barranquilla,Elsy Torres,Activo
+P061,Hoyos PLC LLC,Servicios,Bogotá,Augusto Camilo Blanco Ospina,Activo
+P062,Herrera and Sons Group,Transporte,Barranquilla,Elizabeth Obando Romero,Inactivo
+P063,Franco-Lozano Ltd,Transporte,Bogotá,Andrés Navarro,Activo
+P064,"Ávila, Henao and Jiménez LLC",Proveedor insumos,Cali,Maribel Ana Salamanca Peña,Activo
+P065,"Flórez, Quintero and García Ltd",Consultoría,Bogotá,Lucía Peña Rodríguez,Activo
+P066,Delgado-Rojas Inc,Consultoría,Medellín,Juan Santiago Sanabria,Activo
+P067,Escobar-Camargo Group,Proveedor insumos,Medellín,Jhon Fabio Caicedo,Activo
+P068,Hernández-Angulo Group,Distribuidor,Barranquilla,Alexander Armando Rojas,Activo
+P069,Moreno-Bermúdez LLC,Transporte,Valledupar,Milena Martínez,Activo
+P070,Mora-Vargas Group,Distribuidor,Cali,Valentina Hernández Rodríguez,Activo
+P071,González-Angulo and Sons,Transporte,Bogotá,Jazmín Alfonso,Activo
+P072,"Gutiérrez, Martínez and Angulo Ltd",Servicios,Cali,Dayana Angie Luna Escobar,Activo
+P073,Barragán Group Group,Proveedor insumos,Bogotá,David Jairo Martínez Rodríguez,Inactivo
+P074,"Sepúlveda, Moreno and Hernández LLC",Servicios,Valledupar,Carlos López,Inactivo
+P075,Martínez Ltd LLC,Transporte,Bogotá,Blanca Marcela Hurtado López,Activo
+P076,Rodríguez-Ruiz PLC,Servicios,Cali,César Sánchez,Activo
+P077,"Castaño, Andrade and Hernández LLC",Distribuidor,Barranquilla,Elisa Elena Villamizar Pacheco,Activo
+P078,"Sánchez, Mena and Rodríguez Ltd",Consultoría,Bogotá,Adriana Sarmiento Quiroga,Activo
+P079,Gómez Inc Inc,Proveedor insumos,Barranquilla,Alberto Camilo Gutiérrez Beltrán,Activo
+P080,Angulo-Pérez LLC,Distribuidor,Cali,Concepción Angélica Muñoz Ruiz,Activo
+P081,Rentería-Rincón PLC,Servicios,Cartagena,Gustavo Gustavo Suárez Reyes,Activo
+P082,"Hernández, Rojas and Rodríguez Group",Distribuidor,Cali,Domingo Alarcón Valencia,Activo
+P083,"Aguirre, Caballero and Rodríguez LLC",Proveedor insumos,Barranquilla,Enrique Domínguez,Activo
+P084,"Fuentes, Rodríguez and Gómez PLC",Proveedor insumos,Valledupar,Pablo Andrés Restrepo Sierra,Activo
+P085,Daza LLC Inc,Proveedor insumos,Cali,Rosario Eliana Carmona,Activo
+P086,"Flórez, Nieto and Cano Inc",Proveedor insumos,Cartagena,Ana Adiela Hernández,Activo
+P087,"Quintero, Mejía and Gómez and Sons",Proveedor insumos,Barranquilla,Manuel Armando Tovar Vargas,Activo
+P088,"Camacho, Mercado and Carvajal and Sons",Consultoría,Cartagena,Ramón Carlos Martínez,Activo
+P089,Becerra-Correa LLC,Proveedor insumos,Cartagena,María Nidia Pineda,Activo
+P090,"Cárdenas, Acevedo and Barreto LLC",Consultoría,Bogotá,Catherine Duque Henao,Inactivo
+P091,"Castro, Díaz and Méndez and Sons",Consultoría,Cartagena,Katherin Suárez,Activo
+P092,Pineda-Álvarez Group,Proveedor insumos,Bogotá,Adela Rendón,Activo
+P093,Parada-Morales and Sons,Distribuidor,Barranquilla,Andrés Eduardo Cárdenas,Activo
+P094,Buitrago PLC LLC,Proveedor insumos,Cali,Dagoberto Ávila,Activo
+P095,Gallego PLC PLC,Servicios,Cartagena,Tulio Danny Torres,Activo
+P096,"Prada, Arteaga and Gallego LLC",Distribuidor,Cali,Lina María Rivas,Activo
+P097,Rodríguez Inc PLC,Servicios,Barranquilla,Dario Muñoz,Activo
+P098,Ortiz-Aguilar and Sons,Consultoría,Cali,Jhon Javier Ortega Pérez,Inactivo
+P099,Escobar-Rincón and Sons,Transporte,Valledupar,Sandra Johanna Duarte,Activo
+P100,Vargas Ltd LLC,Distribuidor,Bogotá,Daniela Estrada,Activo
+P101,Ibarra-Reyes Inc,Consultoría,Cali,Mario Jesús Prieto Valencia,Activo
+P102,Ramírez-Arango Group,Distribuidor,Bogotá,Luis Torres Martínez,Activo
+P103,Valencia Ltd and Sons,Transporte,Cali,Mireya Mónica Velásquez Aguirre,Activo
+P104,Bolaños LLC Inc,Proveedor insumos,Cartagena,Maritza Sánchez Giraldo,Inactivo
+P105,"Manrique, Bejarano and Salamanca Group",Distribuidor,Bogotá,Yuli Hoyos,Activo
+P106,Herrera-Herrera Group,Consultoría,Bogotá,Adriana Luz Jaramillo Prada,Activo
+P107,Rengifo-Guevara LLC,Distribuidor,Valledupar,Carolina Maritza Gil Rojas,Activo
+P108,"Castillo, Guerrero and Jaramillo PLC",Distribuidor,Cartagena,Edwin David Narváez,Activo
+P109,"Niño, Rivera and Gutiérrez and Sons",Proveedor insumos,Bogotá,Mauricio Salazar Bernal,Activo
+P110,"Gómez, Ávila and Soto Ltd",Transporte,Cali,María Angélica Peña,Activo
+P111,Rodríguez-Carvajal Group,Distribuidor,Cali,Damaris Romero Mora,Inactivo
+P112,"Guzmán, Ángel and Arévalo Ltd",Consultoría,Cartagena,Nury Medina Daza,Activo
+P113,Calderón-Ospino LLC,Distribuidor,Cali,Beatriz Stella Castellanos Sánchez,Activo
+P114,"Escobar, Murillo and Martínez and Sons",Transporte,Bogotá,Carlos Jorge Vargas Correa,Activo
+P115,"Perdomo, González and Reyes Ltd",Proveedor insumos,Valledupar,José Carlos Díaz,Activo
+P116,Benavides and Sons Group,Consultoría,Cali,Amparo Triana Orozco,Activo
+P117,Jaimes-Trujillo Group,Consultoría,Valledupar,María Tamayo,Activo
+P118,Fernández-Ardila LLC,Proveedor insumos,Medellín,Daniela Rosalba Tovar,Activo
+P119,Vega-Pérez PLC,Proveedor insumos,Valledupar,Aníbal Dario Cárdenas López,Activo
+P120,Moreno-Martínez LLC,Consultoría,Barranquilla,Luz Maritza Romero,Activo
+P121,"Zapata, Rivera and Pérez and Sons",Servicios,Bogotá,Jhon Peña,Activo
+P122,Cabrera-Pérez PLC,Servicios,Valledupar,Felipe Gallego Ramírez,Activo
+P123,"Valencia, Acosta and Sánchez LLC",Proveedor insumos,Medellín,Diana Elizabeth Gutiérrez,Activo
+P124,Mejía-Leal and Sons,Consultoría,Medellín,Javier Cristian Ocampo,Activo
+P125,Hurtado PLC Inc,Distribuidor,Cartagena,Constanza Martínez,Activo
+P126,"Torres, Reyes and Morales LLC",Distribuidor,Valledupar,Carlos Vargas,Activo
+P127,"Bernal, Salazar and Alarcón Ltd",Servicios,Bogotá,Javier Jairo González Muñoz,Activo
+P128,González Ltd Inc,Consultoría,Barranquilla,Didier Alex Sierra Marín,Inactivo
+P129,Figueroa Ltd Ltd,Distribuidor,Barranquilla,Nidia Diana Ortega Medina,Activo
+P130,Galindo-Torres PLC,Transporte,Bogotá,David Correa Cardona,Activo
+P131,"Valencia, Sandoval and González Group",Transporte,Medellín,Josué Mario Cuéllar Murcia,Inactivo
+P132,León-López Group,Consultoría,Medellín,Camila Nelcy Tovar Torres,Activo
+P133,"Torres, Gómez and Escobar Group",Transporte,Barranquilla,Martha Jiménez Pineda,Activo
+P134,Cabrera LLC PLC,Consultoría,Cartagena,Anderson Salgado Hernández,Activo
+P135,Lozano-Prieto Ltd,Servicios,Cartagena,Andrés Medina,Activo
+P136,"Jaramillo, Duarte and Valderrama PLC",Proveedor insumos,Barranquilla,Melissa Ruiz Naranjo,Activo
+P137,"Patiño, Cuéllar and Escobar Ltd",Distribuidor,Cali,Martha Murcia,Activo
+P138,"Rivera, Salas and Espinosa and Sons",Servicios,Medellín,Patricia Sandra Muñoz Gómez,Activo
+P139,Arroyo Group LLC,Transporte,Barranquilla,Álvaro Castillo Guzmán,Activo
+P140,Carmona-Hernández PLC,Consultoría,Bogotá,Karol Ramírez Acosta,Inactivo
+P141,Rodríguez Ltd Group,Proveedor insumos,Bogotá,Luz Ramírez Sánchez,Activo
+P142,Bautista LLC LLC,Servicios,Valledupar,Alberto Palacios,Activo
+P143,"Quintero, Erazo and Mesa Ltd",Transporte,Cali,Ciro Carlos Ávila,Activo
+P144,Ávila PLC Inc,Distribuidor,Cartagena,Alonso José Riascos,Activo
+P145,Barrios LLC Group,Distribuidor,Cali,Carlos Jaime Delgado,Inactivo
+P146,"Rico, Buitrago and Pardo Inc",Proveedor insumos,Medellín,Ruby Milena Corredor Vargas,Activo
+P147,Pardo Group and Sons,Distribuidor,Valledupar,Miguel Edward Guerra,Activo
+P148,"Ortiz, Figueroa and Guerrero PLC",Consultoría,Valledupar,Alejandra Cifuentes,Activo
+P149,Salazar-Jaramillo and Sons,Servicios,Medellín,Rosa Sandra Ortiz Guzmán,Activo
+P150,"Moreno, Soto and Guerrero and Sons",Proveedor insumos,Valledupar,Marta Sarmiento Silva,Activo
+P151,Martínez PLC Group,Distribuidor,Cartagena,Carmen Chaparro Cabrera,Activo
+P152,"Guzmán, Ortiz and Hernández Group",Distribuidor,Medellín,Alex Rincón,Activo
+P153,García Ltd Inc,Transporte,Barranquilla,Vanessa Mayra Hoyos,Activo
+P154,Ayala-Guevara Inc,Consultoría,Barranquilla,Johana Martínez Pérez,Activo
+P155,Ceballos-Mora Ltd,Proveedor insumos,Bogotá,Margoth Orozco Sánchez,Activo
+P156,Díaz Group LLC,Proveedor insumos,Barranquilla,Amalia Nubia Gallego,Activo
+P157,Flórez Group PLC,Consultoría,Cali,Guillermo César Bernal,Activo
+P158,Blanco-González Ltd,Transporte,Bogotá,Miguel Carlos Uribe Rodríguez,Inactivo
+P159,"Gómez, Patiño and Zapata Group",Servicios,Valledupar,Mariana Andrea Cortés,Activo
+P160,Campo-Jiménez Ltd,Servicios,Barranquilla,Stella Ríos,Activo
+P161,Rodríguez Ltd LLC,Distribuidor,Bogotá,Juan Orozco,Inactivo
+P162,"Soto, Jaramillo and Ramírez PLC",Consultoría,Bogotá,Gladis Galvis Uribe,Activo
+P163,"López, Gómez and Rodríguez Inc",Transporte,Bogotá,Luis Castillo,Activo
+P164,"Gómez, Caicedo and Jaimes Ltd",Servicios,Bogotá,Estella Esperanza Ortega Pérez,Activo
+P165,"Hoyos, Mosquera and Rodríguez LLC",Consultoría,Medellín,Marly Galindo Mosquera,Activo
+P166,Rojas Ltd Inc,Servicios,Valledupar,Miriam Hernández Sánchez,Activo
+P167,Zambrano Group Group,Servicios,Cartagena,Ana Rodríguez,Inactivo
+P168,Velasco-Hernández LLC,Consultoría,Medellín,Jhon Fabián Pérez Correa,Activo
+P169,Prada-Zapata Ltd,Consultoría,Medellín,Augusto Rojas,Activo
+P170,"Ruiz, Benavides and García and Sons",Transporte,Cartagena,Rocío María Vargas,Activo
+P171,"Valencia, Romero and Moreno Inc",Transporte,Barranquilla,Ricardo Marino Duarte,Activo
+P172,Ortiz Inc Ltd,Servicios,Barranquilla,María Correa Valencia,Activo
+P173,Rojas PLC Inc,Proveedor insumos,Barranquilla,Jorge Miguel López Gómez,Activo
+P174,"Espitia, Ortiz and Uribe LLC",Transporte,Valledupar,Carolina Carolina Salazar,Activo
+P175,"Morales, Acosta and Granados Inc",Proveedor insumos,Bogotá,Emiro Quintero,Activo
+P176,García LLC and Sons,Transporte,Cartagena,Viviana Pérez Valderrama,Activo
+P177,"Suárez, Mejía and Castro and Sons",Distribuidor,Valledupar,Esther Rodríguez,Activo
+P178,Moreno Group PLC,Transporte,Barranquilla,Olga Sierra Rentería,Activo
+P179,Velásquez-Ávila LLC,Servicios,Barranquilla,Gerardo Manuel Vera,Activo
+P180,Vanegas-Durán PLC,Consultoría,Bogotá,Guillermo Eliecer Henao,Activo
+P181,Ríos PLC Inc,Proveedor insumos,Cali,Guillermo Rodríguez,Activo
+P182,"Arévalo, Vargas and Sarmiento Group",Consultoría,Medellín,Adriana Sandra Bastidas,Inactivo
+P183,"Pérez, Parada and Salazar Ltd",Transporte,Cartagena,Betty María Herrera Zapata,Activo
+P184,Benavides PLC Inc,Consultoría,Cali,Angélica Graciela Flórez,Activo
+P185,Muñoz-Mosquera Group,Distribuidor,Cartagena,Víctor Moreno Miranda,Activo
+P186,Calderón LLC Inc,Distribuidor,Medellín,Alberto Mora Carrillo,Activo
+P187,"Cortés, López and Rodríguez Group",Servicios,Medellín,Cristina Lizeth Patiño,Activo
+P188,"Soto, Blanco and Jaimes Ltd",Transporte,Barranquilla,Rocío Gómez,Activo
+P189,"Franco, Blanco and Herrera Group",Consultoría,Cartagena,Fernando Sánchez Rodríguez,Activo
+P190,Rojas and Sons Inc,Proveedor insumos,Cartagena,Ana Margarita Cardozo,Activo
+P191,"Rosero, Lozano and Cardona and Sons",Transporte,Cartagena,María Arrieta Domínguez,Activo
+P192,"Ortiz, Álvarez and Castro PLC",Transporte,Barranquilla,Eduardo Salgado,Activo
+P193,Suárez-Muñoz and Sons,Transporte,Medellín,Jonathan Rolando Gómez,Inactivo
+P194,López Ltd and Sons,Distribuidor,Medellín,René Naranjo,Activo
+P195,Toro-Mendoza LLC,Consultoría,Barranquilla,Luz Saavedra Rivas,Activo
+P196,"Quintero, Mosquera and Sánchez Inc",Proveedor insumos,Bogotá,Alba Franco,Activo
+P197,"Hurtado, Sepúlveda and Díaz Group",Proveedor insumos,Medellín,Liliana Lilia Díaz,Activo
+P198,Servicios Integrales de Papel SAS,Servicios,Desconocida,,Activo
+P199,Inversiones A&B,Consultoría,Bogotá,N/A,Activo
+P200,Logística Rápida Ficticia,Transporte,Cali,,Activo

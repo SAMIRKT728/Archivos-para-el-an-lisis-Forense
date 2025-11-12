@@ -1,0 +1,621 @@
+id_transaccion,fecha,id_empleado,id_proveedor,monto,concepto,tipo_pago,estado
+T0001,2024-10-08,E001,P002,125000000,Pago contrato de suministros,Transferencia,Aprobado
+T0002,2024-10-08,E001,P002,125000000,Duplicado de pago,Transferencia,Aprobado
+T0003,2025-09-05,E004,P002,153835043,Consultoría especializada,Transferencia,Aprobado
+T0004,2024-09-28,E004,P002,224966911,Adelanto contrato 001,Transferencia,Aprobado
+T0005,2025-09-04,E001,P002,136841713,Consultoría especializada,Transferencia,Aprobado
+T0006,2024-08-28,E001,P002,150871993,Pago contrato de suministros,Transferencia,Aprobado
+T0007,2025-02-04,E001,P002,123363377,Consultoría especializada,Transferencia,Aprobado
+T0008,2024-01-30,E004,P002,242181527,Adelanto contrato 001,Transferencia,Aprobado
+T0009,2025-12-21,E004,P002,94229949,Consultoría especializada,Transferencia,Aprobado
+T0010,2025-09-29,E001,P002,298455927,Adelanto contrato 001,Transferencia,Aprobado
+T0011,2024-09-22,E001,P002,103346935,Importación de equipos,Transferencia,Aprobado
+T0012,2025-08-24,E004,P002,191071418,Pago contrato de suministros,Transferencia,Aprobado
+T0013,2024-07-31,E001,P002,313501829,Adelanto contrato 001,Transferencia,Aprobado
+T0014,2024-01-04,E004,P002,226371109,Adelanto contrato 001,Transferencia,Aprobado
+T0015,2025-08-19,E001,P002,209956916,Pago contrato de suministros,Transferencia,Aprobado
+T0016,2025-12-22,E004,P002,299068251,Pago contrato de suministros,Transferencia,Aprobado
+T0017,2025-08-15,E004,P002,184718731,Adelanto contrato 001,Transferencia,Aprobado
+T0018,2025-04-09,E004,P002,91650609,Consultoría especializada,Transferencia,Aprobado
+T0019,2025-08-02,E004,P002,178676829,Importación de equipos,Transferencia,Aprobado
+T0020,2025-01-10,E001,P002,187517882,Importación de equipos,Transferencia,Aprobado
+T0021,2024-06-14,E004,P002,244449711,Importación de equipos,Transferencia,Aprobado
+T0022,2025-02-05,E004,P002,167170470,Pago contrato de suministros,Transferencia,Aprobado
+T0023,2025-08-05,E023,P198,18515963,Consultoría de procesos,Efectivo,Pagado
+T0024,2024-09-30,E062,P198,16836045,Consultoría de procesos,Cheque,Pagado
+T0025,2025-10-13,E070,P198,16197204,Consultoría de procesos,Cheque,Pagado
+T0026,2024-08-23,E069,P200,22105201,Consultoría de procesos,Efectivo,Pagado
+T0027,2024-10-19,E049,P200,4869069,Consultoría de procesos,Cheque,Pagado
+T0028,2025-10-29,E041,P198,23388607,Consultoría de procesos,Efectivo,Pagado
+T0029,2024-08-18,E020,P198,12820045,Consultoría de procesos,Cheque,Pagado
+T0030,2024-12-08,E036,P198,9181413,Consultoría de procesos,Cheque,Pagado
+T0031,2025-09-01,E080,P199,19031715,Servicios técnicos,Efectivo,Pagado
+T0032,2024-12-22,E027,P200,6178388,Consultoría de procesos,Efectivo,Pagado
+T0033,2024-10-10,E002,P198,14862307,Consultoría de procesos,Efectivo,Pagado
+T0034,2025-07-17,E060,P200,10205590,Consultoría de procesos,Cheque,Pagado
+T0035,2024-01-24,E066,P199,10647073,Servicios técnicos,Cheque,Pagado
+T0036,2025-01-14,E023,P200,10192177,Consultoría de procesos,Efectivo,Pagado
+T0037,2024-06-01,E026,P199,23812585,Servicios técnicos,Efectivo,Pagado
+T0038,2025-12-25,E069,P198,14755974,Consultoría de procesos,Efectivo,Pagado
+T0039,2025-06-16,E008,P200,4019985,Consultoría de procesos,Cheque,Pagado
+T0040,2025-10-28,E074,P200,1501385,Consultoría de procesos,Efectivo,Pagado
+T0041,2025-02-17,E001,P199,12647987,Servicios técnicos,Efectivo,Pagado
+T0042,2024-02-29,E076,P198,10875940,Consultoría de procesos,Efectivo,Pagado
+T0043,2024-09-02,E003,P200,709778,Consultoría de procesos,Cheque,Pagado
+T0044,2025-02-28,E049,P200,9192577,Consultoría de procesos,Efectivo,Pagado
+T0045,2025-10-24,E062,P199,24344407,Servicios técnicos,Efectivo,Pagado
+T0046,2024-07-17,E028,P198,5238797,Consultoría de procesos,Efectivo,Pagado
+T0047,2024-12-18,E061,P198,18111308,Consultoría de procesos,Cheque,Pagado
+T0048,2025-10-22,E024,P200,21743151,Consultoría de procesos,Efectivo,Pagado
+T0049,2024-05-17,E008,P199,8913534,Servicios técnicos,Efectivo,Pagado
+T0050,2024-12-01,E037,P198,9787232,Consultoría de procesos,Efectivo,Pagado
+T0051,2024-02-21,E065,P199,5160254,Servicios técnicos,Cheque,Pagado
+T0052,2024-01-08,E017,P200,21285166,Consultoría de procesos,Efectivo,Pagado
+T0053,2024-10-16,E018,P171,27841877,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0054,2024-10-19,E018,P171,27841877,REFACTURA: Compra de kits quirúrgicos,Transferencia,Aprobado
+T0055,2025-09-29,E073,P052,23825304,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0056,2024-07-08,E015,P168,34113766,Suministro de medicamentos,Transferencia,Aprobado
+T0057,2024-03-15,E042,P086,35028451,Mantenimiento de equipos,Transferencia,Aprobado
+T0058,2025-03-04,E033,P188,5589498,Dotación hospitalaria,Transferencia,Aprobado
+T0059,2024-11-08,E039,P153,22556224,Dotación hospitalaria,Transferencia,Aprobado
+T0060,2025-01-15,E035,P085,36572247,Mantenimiento de equipos,Transferencia,Aprobado
+T0061,2025-01-02,E075,P164,32471113,Dotación hospitalaria,Transferencia,Aprobado
+T0062,2024-10-04,E078,P039,207615975,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0063,2024-02-02,E066,P017,44887205,Dotación hospitalaria,Transferencia,Aprobado
+T0064,2025-10-15,E011,P168,6477918,Dotación hospitalaria,Transferencia,Aprobado
+T0065,2025-04-21,E053,P017,22105557,Mantenimiento de equipos,Transferencia,Aprobado
+T0066,2024-12-18,E035,P124,27693335,Suministro de medicamentos,Transferencia,Aprobado
+T0067,2024-09-29,E012,P174,16087507,Mantenimiento de equipos,Transferencia,Aprobado
+T0068,2024-07-12,E004,P162,24368905,Dotación hospitalaria,Transferencia,Aprobado
+T0069,2024-01-26,E005,P039,14624048,Suministro de medicamentos,Transferencia,Aprobado
+T0070,2025-12-28,E057,P091,17341233,Mantenimiento de equipos,Transferencia,Aprobado
+T0071,2025-06-16,E054,P136,35810738,Dotación hospitalaria,Transferencia,Aprobado
+T0072,2025-06-09,E019,P176,6116430,Suministro de medicamentos,Transferencia,Aprobado
+T0073,2025-12-22,E066,P107,14946688,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0074,2025-02-20,E054,P106,30514328,Suministro de medicamentos,Transferencia,Aprobado
+T0075,2024-03-29,E041,P018,18134743,Dotación hospitalaria,Transferencia,Aprobado
+T0076,2025-07-30,E046,P045,34681479,Mantenimiento de equipos,Transferencia,Aprobado
+T0077,2025-10-04,E003,P047,15739501,Dotación hospitalaria,Transferencia,Aprobado
+T0078,2024-09-30,E078,P082,33956174,Dotación hospitalaria,Transferencia,Aprobado
+T0079,2025-10-29,E022,P118,31069854,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0080,2025-11-07,E003,P078,32137657,Suministro de medicamentos,Transferencia,Aprobado
+T0081,2025-10-19,E011,P155,18342202,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0082,2024-11-05,E072,P154,44195419,Mantenimiento de equipos,Transferencia,Aprobado
+T0083,2024-09-14,E062,P137,11029540,Dotación hospitalaria,Transferencia,Aprobado
+T0084,2024-08-18,E047,P096,30577283,Suministro de medicamentos,Transferencia,Aprobado
+T0085,2024-06-03,E006,P172,15830553,Mantenimiento de equipos,Transferencia,Aprobado
+T0086,2025-09-11,E028,P072,13631150,Mantenimiento de equipos,Transferencia,Aprobado
+T0087,2025-04-22,E063,P082,106649907,Dotación hospitalaria,Transferencia,En Revisión
+T0088,2025-11-08,E014,P040,20264234,Dotación hospitalaria,Transferencia,Aprobado
+T0089,2024-02-04,E046,P173,8800244,Suministro de medicamentos,Transferencia,Aprobado
+T0090,2024-08-22,E037,P030,26507889,Mantenimiento de equipos,Transferencia,Aprobado
+T0091,2025-02-18,E044,P064,8566790,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0092,2024-11-17,E033,P086,26738369,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0093,2025-12-05,E046,P051,13689778,Dotación hospitalaria,Transferencia,Aprobado
+T0094,2025-01-23,E035,P026,37060263,Suministro de medicamentos,Transferencia,Aprobado
+T0095,2025-10-25,E047,P091,56920830,Dotación hospitalaria,Transferencia,En Revisión
+T0096,2024-05-10,E070,P184,18669358,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0097,2025-06-02,E014,P086,43571626,Suministro de medicamentos,Transferencia,Aprobado
+T0098,2024-03-10,E002,P143,25609343,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0099,2024-06-24,E058,P163,44148469,Mantenimiento de equipos,Transferencia,Aprobado
+T0100,2025-08-21,E055,P116,7107001,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0101,2024-11-23,E030,P169,28859029,Mantenimiento de equipos,Transferencia,Aprobado
+T0102,2025-03-18,E058,P071,27452483,Suministro de medicamentos,Transferencia,Aprobado
+T0103,2025-11-09,E074,P166,19308924,Dotación hospitalaria,Transferencia,Aprobado
+T0104,2025-11-15,E047,P107,21143069,Dotación hospitalaria,Transferencia,Aprobado
+T0105,2025-12-25,E047,P061,10652230,Suministro de medicamentos,Transferencia,Aprobado
+T0106,2025-04-05,E074,P109,38614106,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0107,2025-04-28,E052,P052,41941395,Dotación hospitalaria,Transferencia,Aprobado
+T0108,2024-09-22,E074,P067,214530440,Dotación hospitalaria,Transferencia,En Revisión
+T0109,2025-05-15,E066,P028,25302105,Suministro de medicamentos,Transferencia,Aprobado
+T0110,2024-10-08,E032,P115,33048197,Suministro de medicamentos,Transferencia,Aprobado
+T0111,2024-01-20,E046,P049,14821515,Mantenimiento de equipos,Transferencia,Aprobado
+T0112,2024-10-09,E050,P097,33903091,Dotación hospitalaria,Transferencia,Aprobado
+T0113,2024-01-27,E048,P067,8733237,Dotación hospitalaria,Transferencia,Aprobado
+T0114,2024-06-03,E056,P042,16013012,Mantenimiento de equipos,Transferencia,Aprobado
+T0115,2024-06-08,E062,P186,22235214,Mantenimiento de equipos,Transferencia,Aprobado
+T0116,2024-12-04,E027,P039,12180554,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0117,2024-09-15,E060,P160,61169526,Suministro de medicamentos,Transferencia,En Revisión
+T0118,2025-11-27,E025,P123,11840622,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0119,2024-06-24,E022,P153,106860750,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0120,2024-12-13,E065,P065,36742228,Mantenimiento de equipos,Transferencia,Aprobado
+T0121,2025-08-30,E065,P113,36911630,Dotación hospitalaria,Transferencia,Aprobado
+T0122,2024-04-11,E011,P106,6836586,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0123,2024-01-23,E004,P089,34916528,Dotación hospitalaria,Transferencia,Aprobado
+T0124,2025-01-29,E065,P036,26181429,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0125,2025-01-31,E065,P036,26181429,REFACTURA: Compra de kits quirúrgicos,Transferencia,Aprobado
+T0126,2024-10-25,E017,P023,26675265,Mantenimiento de equipos,Transferencia,En Revisión
+T0127,2024-10-27,E017,P023,26675265,REFACTURA: Mantenimiento de equipos,Transferencia,Aprobado
+T0128,2025-01-02,E074,P141,39917341,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0129,2025-12-23,E077,P021,14578230,Suministro de medicamentos,Transferencia,Aprobado
+T0130,2024-01-08,E014,P121,41495778,Mantenimiento de equipos,Transferencia,Aprobado
+T0131,2025-10-13,E074,P130,25016124,Mantenimiento de equipos,Transferencia,Aprobado
+T0132,2025-07-16,E026,P122,89658978,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0133,2024-08-21,E004,P138,42986548,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0134,2025-10-22,E007,P096,18730559,Suministro de medicamentos,Transferencia,Aprobado
+T0135,2025-11-18,E021,P137,15544413,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0136,2025-04-12,E001,P015,129031182,Dotación hospitalaria,Transferencia,En Revisión
+T0137,2025-04-14,E001,P015,129031182,REFACTURA: Dotación hospitalaria,Transferencia,Aprobado
+T0138,2025-06-09,E062,P041,29767499,Dotación hospitalaria,Transferencia,Aprobado
+T0139,2025-06-12,E005,P142,12190571,Dotación hospitalaria,Transferencia,Aprobado
+T0140,2024-12-06,E078,P160,101153032,Mantenimiento de equipos,Transferencia,En Revisión
+T0141,2024-05-07,E053,P049,35235934,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0142,2025-12-19,E077,P133,41784463,Mantenimiento de equipos,Transferencia,Aprobado
+T0143,2025-02-22,E058,P160,13766305,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0144,2024-04-15,E044,P118,14153939,Mantenimiento de equipos,Transferencia,Aprobado
+T0145,2025-01-07,E022,P170,5496233,Mantenimiento de equipos,Transferencia,Aprobado
+T0146,2025-01-08,E022,P170,5496233,REFACTURA: Mantenimiento de equipos,Transferencia,Aprobado
+T0147,2024-05-08,E057,P047,256340496,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0148,2024-05-11,E057,P047,256340496,REFACTURA: Compra de kits quirúrgicos,Transferencia,Aprobado
+T0149,2025-04-03,E050,P020,41220578,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0150,2024-02-11,E059,P102,42349109,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0151,2024-08-17,E035,P183,34424334,Dotación hospitalaria,Transferencia,En Revisión
+T0152,2024-11-07,E061,P124,42308441,Suministro de medicamentos,Transferencia,Aprobado
+T0153,2024-05-18,E025,P015,20787238,Suministro de medicamentos,Transferencia,Aprobado
+T0154,2025-07-02,E047,P007,11660138,Suministro de medicamentos,Transferencia,Aprobado
+T0155,2025-04-13,E014,P108,211274560,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0156,2024-06-21,E056,P092,14562665,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0157,2024-06-24,E056,P092,14562665,REFACTURA: Compra de kits quirúrgicos,Transferencia,Aprobado
+T0158,2025-01-27,E073,P084,43520490,Suministro de medicamentos,Transferencia,Aprobado
+T0159,2024-02-17,E039,P171,34032521,Suministro de medicamentos,Transferencia,Aprobado
+T0160,2025-09-30,E014,P166,29786444,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0161,2025-01-22,E062,P038,15447970,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0162,2024-05-03,E031,P165,7243820,Dotación hospitalaria,Transferencia,Aprobado
+T0163,2024-12-22,E006,P069,18911819,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0164,2025-02-10,E001,P130,6759725,Dotación hospitalaria,Transferencia,Aprobado
+T0165,2025-04-06,E020,P020,66232041,Dotación hospitalaria,Transferencia,En Revisión
+T0166,2024-05-02,E056,P127,41701047,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0167,2025-10-09,E080,P059,12243700,Dotación hospitalaria,Transferencia,Aprobado
+T0168,2025-05-11,E034,P095,16559153,Dotación hospitalaria,Transferencia,Aprobado
+T0169,2025-08-10,E079,P194,6886358,Dotación hospitalaria,Transferencia,Aprobado
+T0170,2025-02-28,E005,P063,23363600,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0171,2024-07-16,E066,P019,41947657,Suministro de medicamentos,Transferencia,Aprobado
+T0172,2024-02-16,E054,P194,36270853,Mantenimiento de equipos,Transferencia,Aprobado
+T0173,2025-04-15,E059,P025,23597685,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0174,2025-04-13,E061,P096,41848356,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0175,2024-10-11,E021,P004,26726213,Dotación hospitalaria,Transferencia,Aprobado
+T0176,2024-12-08,E078,P163,63414638,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0177,2024-10-07,E017,P121,170574985,Mantenimiento de equipos,Transferencia,En Revisión
+T0178,2025-07-06,E063,P194,42053087,Suministro de medicamentos,Transferencia,Aprobado
+T0179,2025-12-29,E044,P101,26370668,Dotación hospitalaria,Transferencia,Aprobado
+T0180,2024-08-06,E011,P080,28571000,Suministro de medicamentos,Transferencia,Aprobado
+T0181,2024-02-09,E001,P070,13499747,Mantenimiento de equipos,Transferencia,Aprobado
+T0182,2024-02-13,E024,P197,9826989,Mantenimiento de equipos,Transferencia,Aprobado
+T0183,2024-02-16,E024,P197,9826989,REFACTURA: Mantenimiento de equipos,Transferencia,Aprobado
+T0184,2025-09-09,E012,P063,31669705,Dotación hospitalaria,Transferencia,Aprobado
+T0185,2024-12-06,E043,P051,32484397,Dotación hospitalaria,Transferencia,Aprobado
+T0186,2025-12-08,E036,P041,10284422,Suministro de medicamentos,Transferencia,Aprobado
+T0187,2024-12-24,E016,P118,34993402,Mantenimiento de equipos,Transferencia,Aprobado
+T0188,2025-06-16,E060,P116,42814367,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0189,2025-12-05,E006,P150,8083677,Dotación hospitalaria,Transferencia,Aprobado
+T0190,2025-12-05,E017,P095,11004379,Suministro de medicamentos,Transferencia,Aprobado
+T0191,2024-05-11,E070,P061,34765098,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0192,2024-01-07,E074,P176,21485935,Mantenimiento de equipos,Transferencia,Aprobado
+T0193,2025-01-01,E053,P082,12246627,Suministro de medicamentos,Transferencia,Aprobado
+T0194,2025-09-11,E011,P125,11885990,Suministro de medicamentos,Transferencia,Aprobado
+T0195,2024-02-22,E034,P058,7452136,Dotación hospitalaria,Transferencia,Aprobado
+T0196,2025-01-23,E079,P095,23451170,Dotación hospitalaria,Transferencia,Aprobado
+T0197,2024-09-17,E070,P148,204843317,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0198,2024-01-01,E039,P195,7280234,Suministro de medicamentos,Transferencia,Aprobado
+T0199,2024-01-02,E039,P195,7280234,REFACTURA: Suministro de medicamentos,Transferencia,Aprobado
+T0200,2025-11-10,E062,P003,18125387,Mantenimiento de equipos,Transferencia,Aprobado
+T0201,2025-06-11,E059,P019,17849422,Mantenimiento de equipos,Transferencia,Aprobado
+T0202,2024-03-10,E043,P060,8824418,Suministro de medicamentos,Transferencia,Aprobado
+T0203,2024-01-12,E035,P151,27937856,Dotación hospitalaria,Transferencia,Aprobado
+T0204,2025-04-29,E004,P030,30921254,Dotación hospitalaria,Transferencia,Aprobado
+T0205,2025-09-18,E016,P136,43255292,Mantenimiento de equipos,Transferencia,En Revisión
+T0206,2025-09-20,E016,P136,43255292,REFACTURA: Mantenimiento de equipos,Transferencia,Aprobado
+T0207,2025-06-28,E069,P092,29137106,Suministro de medicamentos,Transferencia,Aprobado
+T0208,2024-07-18,E005,P157,16455279,Dotación hospitalaria,Transferencia,Aprobado
+T0209,2024-05-22,E025,P007,20752002,Suministro de medicamentos,Transferencia,Aprobado
+T0210,2024-05-12,E011,P184,17749849,Suministro de medicamentos,Transferencia,Aprobado
+T0211,2024-01-13,E068,P092,141446908,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0212,2025-02-24,E061,P096,45637995,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0213,2024-07-08,E015,P057,33488559,Suministro de medicamentos,Transferencia,Aprobado
+T0214,2025-02-24,E020,P163,40325181,Mantenimiento de equipos,Transferencia,Aprobado
+T0215,2024-05-26,E064,P178,41539512,Suministro de medicamentos,Transferencia,Aprobado
+T0216,2024-02-17,E044,P021,22665607,Suministro de medicamentos,Transferencia,Aprobado
+T0217,2025-03-11,E076,P050,69656562,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0218,2025-01-14,E074,P071,5635677,Suministro de medicamentos,Transferencia,Aprobado
+T0219,2025-11-08,E027,P025,42654409,Mantenimiento de equipos,Transferencia,Aprobado
+T0220,2024-10-03,E044,P188,26964589,Dotación hospitalaria,Transferencia,Aprobado
+T0221,2024-11-27,E040,P101,183102479,Mantenimiento de equipos,Transferencia,En Revisión
+T0222,2024-05-29,E056,P181,44066020,Suministro de medicamentos,Transferencia,Aprobado
+T0223,2024-08-01,E053,P103,28832063,Mantenimiento de equipos,Transferencia,Aprobado
+T0224,2024-11-27,E073,P057,28586184,Mantenimiento de equipos,Transferencia,Aprobado
+T0225,2025-03-16,E063,P018,23340155,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0226,2025-09-07,E055,P020,14800239,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0227,2025-09-09,E055,P020,14800239,REFACTURA: Compra de kits quirúrgicos,Transferencia,Aprobado
+T0228,2024-08-29,E077,P136,12853222,Dotación hospitalaria,Transferencia,Aprobado
+T0229,2025-02-18,E015,P086,74294965,Suministro de medicamentos,Transferencia,En Revisión
+T0230,2025-06-18,E021,P113,18734457,Suministro de medicamentos,Transferencia,Aprobado
+T0231,2024-05-14,E053,P110,24647125,Suministro de medicamentos,Transferencia,Aprobado
+T0232,2025-11-25,E027,P127,12864845,Mantenimiento de equipos,Transferencia,Aprobado
+T0233,2024-05-30,E070,P103,17741262,Mantenimiento de equipos,Transferencia,Aprobado
+T0234,2024-08-18,E055,P164,34969112,Dotación hospitalaria,Transferencia,Aprobado
+T0235,2024-02-02,E011,P116,22334275,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0236,2025-10-15,E068,P133,20552210,Suministro de medicamentos,Transferencia,Aprobado
+T0237,2024-03-17,E025,P174,43530987,Suministro de medicamentos,Transferencia,Aprobado
+T0238,2025-04-14,E037,P172,8082771,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0239,2024-12-06,E025,P164,27783535,Mantenimiento de equipos,Transferencia,Aprobado
+T0240,2024-04-01,E033,P032,34209739,Dotación hospitalaria,Transferencia,Aprobado
+T0241,2025-06-08,E003,P179,12036482,Dotación hospitalaria,Transferencia,Aprobado
+T0242,2025-03-27,E071,P044,14362542,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0243,2025-01-16,E035,P157,9616630,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0244,2025-03-20,E039,P100,39409620,Mantenimiento de equipos,Transferencia,Aprobado
+T0245,2025-04-30,E023,P018,29112314,Mantenimiento de equipos,Transferencia,Aprobado
+T0246,2025-07-31,E019,P147,33668257,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0247,2024-12-24,E022,P139,29738657,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0248,2025-07-24,E064,P026,7339744,Suministro de medicamentos,Transferencia,Aprobado
+T0249,2025-11-11,E001,P115,13765884,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0250,2024-01-21,E043,P100,44854706,Suministro de medicamentos,Transferencia,Aprobado
+T0251,2024-05-12,E064,P036,39899222,Suministro de medicamentos,Transferencia,Aprobado
+T0252,2025-11-04,E037,P192,19942594,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0253,2025-07-29,E028,P089,40015003,Suministro de medicamentos,Transferencia,Aprobado
+T0254,2025-08-23,E026,P101,23631335,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0255,2024-04-14,E018,P162,20139674,Mantenimiento de equipos,Transferencia,Aprobado
+T0256,2025-01-26,E048,P003,32715032,Mantenimiento de equipos,Transferencia,Aprobado
+T0257,2025-01-29,E048,P003,32715032,REFACTURA: Mantenimiento de equipos,Transferencia,Aprobado
+T0258,2024-04-30,E079,P127,32363905,Mantenimiento de equipos,Transferencia,Aprobado
+T0259,2024-10-20,E034,P007,25377881,Suministro de medicamentos,Transferencia,Aprobado
+T0260,2025-05-18,E072,P095,25366689,Dotación hospitalaria,Transferencia,Aprobado
+T0261,2025-02-20,E032,P080,46008168,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0262,2024-08-12,E054,P071,29939816,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0263,2024-12-03,E073,P063,43753265,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0264,2024-06-02,E003,P191,8813879,Suministro de medicamentos,Transferencia,Aprobado
+T0265,2024-06-04,E003,P191,8813879,REFACTURA: Suministro de medicamentos,Transferencia,Aprobado
+T0266,2025-01-31,E048,P100,265081180,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0267,2024-08-22,E059,P178,28532137,Dotación hospitalaria,Transferencia,Aprobado
+T0268,2024-08-23,E059,P178,28532137,REFACTURA: Dotación hospitalaria,Transferencia,Aprobado
+T0269,2025-09-28,E002,P144,30797798,Suministro de medicamentos,Transferencia,Aprobado
+T0270,2025-10-22,E043,P030,15851405,Dotación hospitalaria,Transferencia,Aprobado
+T0271,2025-11-28,E010,P120,29285738,Mantenimiento de equipos,Transferencia,Aprobado
+T0272,2025-08-11,E076,P005,34688103,Suministro de medicamentos,Transferencia,Aprobado
+T0273,2024-10-20,E074,P071,5591005,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0274,2025-05-14,E024,P127,6394277,Dotación hospitalaria,Transferencia,Aprobado
+T0275,2025-10-17,E063,P148,5006853,Suministro de medicamentos,Transferencia,Aprobado
+T0276,2024-02-29,E001,P102,9905361,Mantenimiento de equipos,Transferencia,Aprobado
+T0277,2024-05-04,E016,P060,14136737,Dotación hospitalaria,Transferencia,Aprobado
+T0278,2024-12-15,E057,P117,13724069,Mantenimiento de equipos,Transferencia,Aprobado
+T0279,2025-11-29,E043,P138,15930621,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0280,2024-07-05,E063,P130,9321899,Dotación hospitalaria,Transferencia,Aprobado
+T0281,2024-11-06,E012,P132,15843999,Dotación hospitalaria,Transferencia,Aprobado
+T0282,2024-03-04,E041,P079,41517557,Mantenimiento de equipos,Transferencia,Aprobado
+T0283,2025-08-26,E003,P099,18722834,Suministro de medicamentos,Transferencia,Aprobado
+T0284,2024-01-27,E023,P150,11464663,Dotación hospitalaria,Transferencia,Aprobado
+T0285,2025-11-22,E076,P061,31988938,Mantenimiento de equipos,Transferencia,Aprobado
+T0286,2025-09-30,E055,P032,26758574,Dotación hospitalaria,Transferencia,Aprobado
+T0287,2024-02-29,E030,P115,152799216,Dotación hospitalaria,Transferencia,En Revisión
+T0288,2024-03-02,E030,P115,152799216,REFACTURA: Dotación hospitalaria,Transferencia,Aprobado
+T0289,2024-02-16,E035,P146,25766141,Suministro de medicamentos,Transferencia,Aprobado
+T0290,2024-09-05,E034,P117,56141097,Mantenimiento de equipos,Transferencia,En Revisión
+T0291,2025-10-06,E072,P071,42162120,Mantenimiento de equipos,Transferencia,En Revisión
+T0292,2024-12-01,E016,P065,12579013,Mantenimiento de equipos,Transferencia,Aprobado
+T0293,2025-01-07,E034,P058,27204339,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0294,2025-01-08,E034,P058,27204339,REFACTURA: Compra de kits quirúrgicos,Transferencia,Aprobado
+T0295,2025-05-03,E037,P144,26345920,Dotación hospitalaria,Transferencia,Aprobado
+T0296,2024-04-01,E038,P047,19472456,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0297,2025-01-28,E018,P068,66526590,Suministro de medicamentos,Transferencia,En Revisión
+T0298,2024-06-02,E046,P106,15381207,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0299,2024-04-10,E042,P069,15721733,Suministro de medicamentos,Transferencia,Aprobado
+T0300,2024-03-08,E017,P072,16194336,Mantenimiento de equipos,Transferencia,Aprobado
+T0301,2025-05-02,E066,P120,8776411,Mantenimiento de equipos,Transferencia,Aprobado
+T0302,2025-02-02,E072,P057,7281496,Mantenimiento de equipos,Transferencia,Aprobado
+T0303,2025-01-04,E021,P109,30569991,Mantenimiento de equipos,Transferencia,Aprobado
+T0304,2025-01-06,E021,P109,30569991,REFACTURA: Mantenimiento de equipos,Transferencia,Aprobado
+T0305,2025-09-28,E025,P134,22688242,Suministro de medicamentos,Transferencia,Aprobado
+T0306,2024-09-11,E008,P152,6833268,Dotación hospitalaria,Transferencia,Aprobado
+T0307,2025-11-12,E050,P165,13593623,Suministro de medicamentos,Transferencia,Aprobado
+T0308,2025-11-11,E070,P121,19795297,Suministro de medicamentos,Transferencia,Aprobado
+T0309,2025-01-13,E015,P162,32096414,Mantenimiento de equipos,Transferencia,Aprobado
+T0310,2024-09-24,E006,P043,13876011,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0311,2024-07-18,E032,P112,44912784,Suministro de medicamentos,Transferencia,En Revisión
+T0312,2024-06-01,E047,P191,31006355,Suministro de medicamentos,Transferencia,Aprobado
+T0313,2025-07-31,E038,P100,14379290,Dotación hospitalaria,Transferencia,Aprobado
+T0314,2024-11-03,E076,P001,40145604,Mantenimiento de equipos,Transferencia,Aprobado
+T0315,2025-09-25,E025,P134,11079487,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0316,2025-01-05,E050,P179,37966977,Dotación hospitalaria,Transferencia,Aprobado
+T0317,2024-11-03,E013,P168,7821489,Mantenimiento de equipos,Transferencia,Aprobado
+T0318,2025-01-13,E044,P129,27708689,Mantenimiento de equipos,Transferencia,Aprobado
+T0319,2024-06-17,E002,P039,44551467,Mantenimiento de equipos,Transferencia,Aprobado
+T0320,2025-12-07,E020,P154,30165620,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0321,2024-04-20,E002,P060,43073913,Mantenimiento de equipos,Transferencia,Aprobado
+T0322,2024-03-17,E027,P049,21595667,Dotación hospitalaria,Transferencia,Aprobado
+T0323,2025-08-12,E016,P067,44522303,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0324,2024-04-13,E053,P065,25279046,Dotación hospitalaria,Transferencia,Aprobado
+T0325,2024-07-28,E039,P189,10164578,Mantenimiento de equipos,Transferencia,Aprobado
+T0326,2024-06-04,E058,P137,155199916,Mantenimiento de equipos,Transferencia,En Revisión
+T0327,2025-09-25,E019,P001,20405071,Mantenimiento de equipos,Transferencia,Aprobado
+T0328,2024-04-02,E056,P177,72432756,Suministro de medicamentos,Transferencia,En Revisión
+T0329,2025-01-27,E041,P076,42758570,Mantenimiento de equipos,Transferencia,Aprobado
+T0330,2025-03-20,E016,P109,126578790,Suministro de medicamentos,Transferencia,En Revisión
+T0331,2024-01-10,E079,P155,6123320,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0332,2025-05-31,E020,P080,40503845,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0333,2025-03-09,E016,P166,18260580,Suministro de medicamentos,Transferencia,Aprobado
+T0334,2025-03-10,E016,P166,18260580,REFACTURA: Suministro de medicamentos,Transferencia,Aprobado
+T0335,2024-06-24,E032,P137,16619869,Mantenimiento de equipos,Transferencia,Aprobado
+T0336,2024-06-26,E032,P137,16619869,REFACTURA: Mantenimiento de equipos,Transferencia,Aprobado
+T0337,2025-05-13,E011,P038,42621986,Mantenimiento de equipos,Transferencia,Aprobado
+T0338,2025-08-23,E025,P029,19337757,Dotación hospitalaria,Transferencia,Aprobado
+T0339,2025-06-04,E001,P069,9607327,Mantenimiento de equipos,Transferencia,Aprobado
+T0340,2025-02-14,E047,P026,36979930,Suministro de medicamentos,Transferencia,Aprobado
+T0341,2025-08-16,E007,P099,22419376,Suministro de medicamentos,Transferencia,Aprobado
+T0342,2024-08-22,E068,P100,5697885,Suministro de medicamentos,Transferencia,Aprobado
+T0343,2024-10-17,E058,P053,12637830,Mantenimiento de equipos,Transferencia,Aprobado
+T0344,2025-01-05,E028,P184,18391641,Mantenimiento de equipos,Transferencia,Aprobado
+T0345,2025-07-28,E072,P055,17982834,Mantenimiento de equipos,Transferencia,Aprobado
+T0346,2024-12-11,E069,P053,164939495,Mantenimiento de equipos,Transferencia,En Revisión
+T0347,2025-09-21,E060,P028,28406437,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0348,2024-10-31,E064,P139,29512861,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0349,2025-10-29,E031,P077,25567536,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0350,2025-10-07,E042,P184,31101128,Mantenimiento de equipos,Transferencia,Aprobado
+T0351,2025-12-08,E062,P068,20576343,Dotación hospitalaria,Transferencia,Aprobado
+T0352,2025-02-18,E062,P172,17664705,Dotación hospitalaria,Transferencia,Aprobado
+T0353,2025-05-06,E006,P143,5977064,Dotación hospitalaria,Transferencia,Aprobado
+T0354,2024-02-29,E075,P048,22238508,Suministro de medicamentos,Transferencia,Aprobado
+T0355,2025-02-14,E038,P177,42084368,Suministro de medicamentos,Transferencia,Aprobado
+T0356,2025-08-18,E010,P060,20886274,Dotación hospitalaria,Transferencia,Aprobado
+T0357,2025-02-01,E079,P018,85823420,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0358,2025-07-19,E073,P143,12036106,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0359,2025-09-14,E074,P076,15878709,Dotación hospitalaria,Transferencia,Aprobado
+T0360,2024-07-06,E041,P126,18215502,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0361,2024-01-10,E075,P183,40226055,Suministro de medicamentos,Transferencia,Aprobado
+T0362,2025-11-24,E080,P019,28022584,Dotación hospitalaria,Transferencia,Aprobado
+T0363,2025-05-04,E012,P159,14444876,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0364,2024-06-24,E024,P068,24845137,Dotación hospitalaria,Transferencia,Aprobado
+T0365,2024-08-25,E013,P125,39381560,Dotación hospitalaria,Transferencia,Aprobado
+T0366,2024-08-30,E030,P133,15795462,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0367,2024-08-31,E030,P133,15795462,REFACTURA: Compra de kits quirúrgicos,Transferencia,Aprobado
+T0368,2024-01-06,E050,P094,23273418,Dotación hospitalaria,Transferencia,Aprobado
+T0369,2024-01-08,E050,P094,23273418,REFACTURA: Dotación hospitalaria,Transferencia,Aprobado
+T0370,2025-09-20,E072,P183,20570589,Suministro de medicamentos,Transferencia,Aprobado
+T0371,2025-04-18,E040,P039,18520323,Suministro de medicamentos,Transferencia,Aprobado
+T0372,2024-10-21,E055,P173,33537690,Suministro de medicamentos,Transferencia,Aprobado
+T0373,2025-01-04,E001,P183,37478441,Dotación hospitalaria,Transferencia,Aprobado
+T0374,2024-01-09,E007,P011,43270491,Suministro de medicamentos,Transferencia,Aprobado
+T0375,2024-01-11,E007,P011,43270491,REFACTURA: Suministro de medicamentos,Transferencia,Aprobado
+T0376,2025-09-26,E044,P190,16739649,Suministro de medicamentos,Transferencia,Aprobado
+T0377,2024-07-11,E033,P036,14483800,Mantenimiento de equipos,Transferencia,Aprobado
+T0378,2025-10-28,E044,P082,8053548,Suministro de medicamentos,Transferencia,Aprobado
+T0379,2025-04-22,E058,P045,13365915,Suministro de medicamentos,Transferencia,Aprobado
+T0380,2024-12-08,E022,P076,35945736,Suministro de medicamentos,Transferencia,Aprobado
+T0381,2025-08-04,E033,P067,19820169,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0382,2025-06-24,E076,P178,30847898,Mantenimiento de equipos,Transferencia,Aprobado
+T0383,2024-01-17,E047,P197,9765218,Suministro de medicamentos,Transferencia,Aprobado
+T0384,2025-12-01,E073,P192,21623976,Suministro de medicamentos,Transferencia,Aprobado
+T0385,2024-09-29,E039,P106,10133685,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0386,2025-07-13,E033,P170,6608624,Mantenimiento de equipos,Transferencia,Aprobado
+T0387,2024-10-30,E065,P048,19018161,Suministro de medicamentos,Transferencia,Aprobado
+T0388,2024-01-16,E066,P175,34576595,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0389,2025-02-08,E013,P054,40088934,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0390,2024-10-29,E066,P171,20805493,Suministro de medicamentos,Transferencia,Aprobado
+T0391,2025-03-12,E001,P196,38397256,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0392,2025-03-14,E001,P196,38397256,REFACTURA: Compra de kits quirúrgicos,Transferencia,Aprobado
+T0393,2024-06-27,E001,P057,31576810,Suministro de medicamentos,Transferencia,Aprobado
+T0394,2024-04-14,E033,P102,19195807,Suministro de medicamentos,Transferencia,Aprobado
+T0395,2024-10-25,E015,P091,12652767,Mantenimiento de equipos,Transferencia,Aprobado
+T0396,2024-11-19,E035,P110,20724724,Dotación hospitalaria,Transferencia,Aprobado
+T0397,2024-05-30,E056,P189,16750617,Mantenimiento de equipos,Transferencia,Aprobado
+T0398,2024-05-14,E025,P132,24899135,Mantenimiento de equipos,Transferencia,Aprobado
+T0399,2025-10-21,E023,P078,20081777,Dotación hospitalaria,Transferencia,Aprobado
+T0400,2024-06-02,E057,P030,22789021,Mantenimiento de equipos,Transferencia,Aprobado
+T0401,2025-07-25,E035,P050,31664533,Suministro de medicamentos,Transferencia,Aprobado
+T0402,2024-09-22,E019,P080,43648758,Dotación hospitalaria,Transferencia,Aprobado
+T0403,2025-04-02,E014,P068,35557452,Mantenimiento de equipos,Transferencia,Aprobado
+T0404,2024-03-10,E069,P155,29344864,Mantenimiento de equipos,Transferencia,Aprobado
+T0405,2025-11-26,E078,P076,16156123,Mantenimiento de equipos,Transferencia,Aprobado
+T0406,2025-06-12,E003,P122,32554459,Suministro de medicamentos,Transferencia,Aprobado
+T0407,2025-03-05,E017,P064,283455963,Suministro de medicamentos,Transferencia,En Revisión
+T0408,2025-05-25,E053,P190,35804628,Mantenimiento de equipos,Transferencia,Aprobado
+T0409,2024-01-24,E010,P049,25817372,Dotación hospitalaria,Transferencia,En Revisión
+T0410,2025-07-24,E072,P071,40191762,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0411,2024-11-26,E070,P177,41308060,Dotación hospitalaria,Transferencia,Aprobado
+T0412,2025-12-06,E030,P017,15362489,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0413,2024-06-11,E075,P168,8028260,Mantenimiento de equipos,Transferencia,Aprobado
+T0414,2024-02-05,E035,P087,39125811,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0415,2025-09-01,E040,P164,19880170,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0416,2025-07-17,E025,P120,264670500,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0417,2024-09-08,E060,P028,43530110,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0418,2025-10-11,E032,P143,23496696,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0419,2025-08-17,E066,P081,22082939,Suministro de medicamentos,Transferencia,Aprobado
+T0420,2024-11-11,E018,P175,5468914,Suministro de medicamentos,Transferencia,Aprobado
+T0421,2024-05-23,E030,P045,43527214,Dotación hospitalaria,Transferencia,Aprobado
+T0422,2025-10-25,E035,P162,17764259,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0423,2024-04-17,E006,P071,44961918,Suministro de medicamentos,Transferencia,Aprobado
+T0424,2025-08-30,E071,P179,18583970,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0425,2025-03-28,E012,P048,34946359,Mantenimiento de equipos,Transferencia,Aprobado
+T0426,2025-03-29,E012,P048,34946359,REFACTURA: Mantenimiento de equipos,Transferencia,Aprobado
+T0427,2025-04-14,E006,P100,28387696,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0428,2024-05-13,E005,P130,30999576,Dotación hospitalaria,Transferencia,Aprobado
+T0429,2025-01-17,E053,P058,30236220,Mantenimiento de equipos,Transferencia,Aprobado
+T0430,2025-11-13,E014,P053,14247265,Dotación hospitalaria,Transferencia,Aprobado
+T0431,2024-10-14,E044,P195,24112693,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0432,2025-03-09,E007,P156,18107084,Mantenimiento de equipos,Transferencia,Aprobado
+T0433,2025-08-25,E017,P141,37792087,Suministro de medicamentos,Transferencia,Aprobado
+T0434,2025-08-26,E017,P141,37792087,REFACTURA: Suministro de medicamentos,Transferencia,Aprobado
+T0435,2024-01-30,E042,P133,27733863,Mantenimiento de equipos,Transferencia,Aprobado
+T0436,2024-05-27,E066,P135,16379475,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0437,2024-04-04,E059,P093,44762094,Dotación hospitalaria,Transferencia,Aprobado
+T0438,2024-02-20,E016,P078,35947277,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0439,2024-07-22,E055,P108,31022842,Dotación hospitalaria,Transferencia,Aprobado
+T0440,2025-02-20,E034,P040,23983699,Mantenimiento de equipos,Transferencia,Aprobado
+T0441,2024-11-17,E020,P171,31961378,Suministro de medicamentos,Transferencia,Aprobado
+T0442,2025-04-06,E016,P053,10142053,Suministro de medicamentos,Transferencia,Aprobado
+T0443,2025-03-28,E047,P170,44001972,Dotación hospitalaria,Transferencia,Aprobado
+T0444,2024-07-20,E030,P123,40425287,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0445,2025-11-21,E039,P048,30135859,Dotación hospitalaria,Transferencia,Aprobado
+T0446,2024-04-10,E001,P146,31518839,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0447,2025-03-06,E079,P176,27409326,Mantenimiento de equipos,Transferencia,Aprobado
+T0448,2025-05-29,E025,P172,8005395,Mantenimiento de equipos,Transferencia,Aprobado
+T0449,2024-09-18,E028,P107,34753738,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0450,2024-05-15,E075,P094,33234086,Suministro de medicamentos,Transferencia,Aprobado
+T0451,2025-05-19,E037,P041,142062263,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0452,2024-12-27,E005,P068,30418628,Dotación hospitalaria,Transferencia,Aprobado
+T0453,2024-02-14,E078,P084,6343815,Dotación hospitalaria,Transferencia,Aprobado
+T0454,2024-12-14,E056,P050,17956673,Suministro de medicamentos,Transferencia,Aprobado
+T0455,2024-06-03,E078,P066,13746942,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0456,2024-03-21,E055,P081,24265584,Suministro de medicamentos,Transferencia,Aprobado
+T0457,2024-04-18,E026,P119,43773771,Mantenimiento de equipos,Transferencia,Aprobado
+T0458,2024-11-14,E066,P177,32819119,Mantenimiento de equipos,Transferencia,Aprobado
+T0459,2025-02-26,E034,P133,20778495,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0460,2024-10-23,E077,P022,15206318,Mantenimiento de equipos,Transferencia,Aprobado
+T0461,2024-06-27,E008,P126,183929988,Suministro de medicamentos,Transferencia,En Revisión
+T0462,2025-06-11,E060,P186,18985140,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0463,2024-01-15,E043,P110,22213329,Mantenimiento de equipos,Transferencia,Aprobado
+T0464,2025-04-10,E080,P134,28249932,Suministro de medicamentos,Transferencia,Aprobado
+T0465,2025-04-12,E080,P134,28249932,REFACTURA: Suministro de medicamentos,Transferencia,Aprobado
+T0466,2025-07-29,E048,P048,39884629,Suministro de medicamentos,Transferencia,Aprobado
+T0467,2025-10-02,E037,P084,8601598,Dotación hospitalaria,Transferencia,Aprobado
+T0468,2024-12-21,E057,P125,29220081,Dotación hospitalaria,Transferencia,Aprobado
+T0469,2024-07-26,E014,P121,20893992,Suministro de medicamentos,Transferencia,Aprobado
+T0470,2025-10-31,E048,P168,39662612,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0471,2025-06-08,E015,P036,21828688,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0472,2024-07-25,E014,P044,5038435,Mantenimiento de equipos,Transferencia,Aprobado
+T0473,2024-11-03,E069,P168,35636296,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0474,2024-10-06,E010,P183,27508028,Dotación hospitalaria,Transferencia,Aprobado
+T0475,2025-02-07,E032,P124,42560708,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0476,2025-04-28,E010,P171,39948459,Suministro de medicamentos,Transferencia,Aprobado
+T0477,2025-04-29,E010,P171,39948459,REFACTURA: Suministro de medicamentos,Transferencia,Aprobado
+T0478,2024-07-01,E068,P153,42140102,Suministro de medicamentos,Transferencia,Aprobado
+T0479,2024-02-05,E012,P045,44971867,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0480,2025-03-02,E060,P040,26274580,Dotación hospitalaria,Transferencia,Aprobado
+T0481,2024-02-20,E039,P156,39849218,Mantenimiento de equipos,Transferencia,Aprobado
+T0482,2024-05-06,E075,P063,6951681,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0483,2025-08-12,E038,P173,8857700,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0484,2024-07-21,E068,P166,7478417,Mantenimiento de equipos,Transferencia,Aprobado
+T0485,2025-01-20,E011,P150,29867380,Dotación hospitalaria,Transferencia,Aprobado
+T0486,2025-07-27,E008,P122,30420851,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0487,2024-11-02,E052,P115,43051925,Suministro de medicamentos,Transferencia,Aprobado
+T0488,2024-01-04,E030,P147,9773879,Dotación hospitalaria,Transferencia,Aprobado
+T0489,2024-03-23,E013,P122,28474246,Dotación hospitalaria,Transferencia,Aprobado
+T0490,2025-04-19,E061,P042,30022958,Mantenimiento de equipos,Transferencia,Aprobado
+T0491,2025-04-20,E061,P042,30022958,REFACTURA: Mantenimiento de equipos,Transferencia,Aprobado
+T0492,2024-12-07,E007,P143,11080495,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0493,2025-11-18,E072,P141,7121724,Dotación hospitalaria,Transferencia,Aprobado
+T0494,2024-06-01,E024,P058,58689365,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0495,2024-03-17,E071,P035,14920773,Dotación hospitalaria,Transferencia,Aprobado
+T0496,2024-04-22,E065,P181,21387924,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0497,2024-08-25,E050,P070,21131516,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0498,2024-07-20,E003,P057,29031390,Suministro de medicamentos,Transferencia,Aprobado
+T0499,2025-12-14,E016,P024,21920440,Suministro de medicamentos,Transferencia,Aprobado
+T0500,2024-07-20,E016,P020,9707788,Mantenimiento de equipos,Transferencia,Aprobado
+T0501,2024-07-22,E016,P020,9707788,REFACTURA: Mantenimiento de equipos,Transferencia,Aprobado
+T0502,2025-10-06,E014,P110,22517741,Dotación hospitalaria,Transferencia,Aprobado
+T0503,2025-01-26,E079,P132,13614883,Suministro de medicamentos,Transferencia,Aprobado
+T0504,2025-03-19,E002,P126,37670457,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0505,2025-09-01,E070,P126,21688702,Mantenimiento de equipos,Transferencia,Aprobado
+T0506,2025-05-25,E013,P146,38741443,Suministro de medicamentos,Transferencia,Aprobado
+T0507,2024-01-01,E003,P100,5407351,Mantenimiento de equipos,Transferencia,Aprobado
+T0508,2025-01-30,E080,P135,43306585,Mantenimiento de equipos,Transferencia,Aprobado
+T0509,2025-05-08,E069,P194,19168548,Mantenimiento de equipos,Transferencia,Aprobado
+T0510,2025-01-26,E037,P009,31101757,Suministro de medicamentos,Transferencia,Aprobado
+T0511,2024-12-30,E079,P156,37882534,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0512,2025-08-08,E052,P178,42129564,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0513,2025-06-26,E063,P130,26326595,Dotación hospitalaria,Transferencia,Aprobado
+T0514,2025-06-28,E063,P130,26326595,REFACTURA: Dotación hospitalaria,Transferencia,Aprobado
+T0515,2025-11-03,E066,P086,21544899,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0516,2025-02-19,E054,P046,23621879,Dotación hospitalaria,Transferencia,Aprobado
+T0517,2025-07-05,E026,P156,8783135,Suministro de medicamentos,Transferencia,Aprobado
+T0518,2025-03-09,E068,P088,12741860,Dotación hospitalaria,Transferencia,Aprobado
+T0519,2025-10-08,E070,P088,22764237,Suministro de medicamentos,Transferencia,Aprobado
+T0520,2024-02-16,E042,P072,16161254,Dotación hospitalaria,Transferencia,Aprobado
+T0521,2024-08-08,E038,P188,43614387,Mantenimiento de equipos,Transferencia,Aprobado
+T0522,2024-08-09,E038,P188,43614387,REFACTURA: Mantenimiento de equipos,Transferencia,Aprobado
+T0523,2024-04-19,E019,P036,18877328,Dotación hospitalaria,Transferencia,Aprobado
+T0524,2024-06-10,E014,P138,14851255,Suministro de medicamentos,Transferencia,Aprobado
+T0525,2024-07-01,E025,P170,23388574,Dotación hospitalaria,Transferencia,Aprobado
+T0526,2024-02-23,E048,P020,43884647,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0527,2024-10-07,E068,P007,38199793,Mantenimiento de equipos,Transferencia,Aprobado
+T0528,2024-06-10,E044,P153,115966368,Mantenimiento de equipos,Transferencia,En Revisión
+T0529,2025-06-19,E016,P122,27125159,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0530,2025-02-09,E063,P139,6224299,Dotación hospitalaria,Transferencia,Aprobado
+T0531,2024-06-02,E002,P004,7244319,Mantenimiento de equipos,Transferencia,Aprobado
+T0532,2025-03-18,E076,P122,31938781,Mantenimiento de equipos,Transferencia,Aprobado
+T0533,2024-09-08,E004,P171,39969631,Dotación hospitalaria,Transferencia,Aprobado
+T0534,2024-04-17,E016,P038,41404676,Suministro de medicamentos,Transferencia,Aprobado
+T0535,2025-03-01,E070,P168,20014223,Suministro de medicamentos,Transferencia,Aprobado
+T0536,2025-02-27,E068,P188,36291240,Mantenimiento de equipos,Transferencia,Aprobado
+T0537,2025-11-30,E047,P157,7883101,Mantenimiento de equipos,Transferencia,Aprobado
+T0538,2025-12-23,E065,P015,21041356,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0539,2025-12-25,E065,P015,21041356,REFACTURA: Compra de kits quirúrgicos,Transferencia,Aprobado
+T0540,2024-10-28,E059,P009,26011746,Mantenimiento de equipos,Transferencia,Aprobado
+T0541,2024-08-18,E034,P096,40275664,Suministro de medicamentos,Transferencia,En Revisión
+T0542,2024-10-11,E080,P011,216934695,Mantenimiento de equipos,Transferencia,En Revisión
+T0543,2024-08-18,E054,P185,8932870,Suministro de medicamentos,Transferencia,Aprobado
+T0544,2024-05-26,E077,P133,8042615,Mantenimiento de equipos,Transferencia,Aprobado
+T0545,2025-12-01,E005,P122,30564300,Mantenimiento de equipos,Transferencia,Aprobado
+T0546,2024-09-04,E077,P037,38450344,Mantenimiento de equipos,Transferencia,Aprobado
+T0547,2024-06-25,E072,P096,20004219,Suministro de medicamentos,Transferencia,Aprobado
+T0548,2024-04-08,E073,P170,21517771,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0549,2024-03-11,E052,P037,41445023,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0550,2025-08-13,E074,P015,247438751,Dotación hospitalaria,Transferencia,En Revisión
+T0551,2024-11-15,E041,P036,24951811,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0552,2024-03-03,E076,P174,5183432,Suministro de medicamentos,Transferencia,Aprobado
+T0553,2024-12-21,E025,P139,39775459,Dotación hospitalaria,Transferencia,Aprobado
+T0554,2024-03-10,E008,P180,24976323,Dotación hospitalaria,Transferencia,Aprobado
+T0555,2024-12-11,E060,P009,24553222,Mantenimiento de equipos,Transferencia,Aprobado
+T0556,2025-10-23,E075,P025,30503202,Suministro de medicamentos,Transferencia,Aprobado
+T0557,2024-02-23,E058,P007,7242804,Suministro de medicamentos,Transferencia,Aprobado
+T0558,2024-02-24,E058,P007,7242804,REFACTURA: Suministro de medicamentos,Transferencia,Aprobado
+T0559,2024-02-16,E064,P151,30763090,Mantenimiento de equipos,Transferencia,Aprobado
+T0560,2024-04-19,E058,P005,39638421,Suministro de medicamentos,Transferencia,Aprobado
+T0561,2025-09-03,E056,P173,43488944,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0562,2025-08-16,E014,P085,22571398,Suministro de medicamentos,Transferencia,Aprobado
+T0563,2024-12-26,E004,P168,20536443,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0564,2024-03-10,E044,P149,15323639,Dotación hospitalaria,Transferencia,Aprobado
+T0565,2024-01-08,E047,P143,16549606,Dotación hospitalaria,Transferencia,Aprobado
+T0566,2024-07-31,E001,P125,101888838,Suministro de medicamentos,Transferencia,En Revisión
+T0567,2024-07-22,E019,P168,18095520,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0568,2024-01-23,E015,P136,18864984,Dotación hospitalaria,Transferencia,Aprobado
+T0569,2025-10-04,E032,P036,17808278,Suministro de medicamentos,Transferencia,Aprobado
+T0570,2025-05-08,E041,P153,42827660,Dotación hospitalaria,Transferencia,Aprobado
+T0571,2025-11-27,E058,P184,65915592,Mantenimiento de equipos,Transferencia,En Revisión
+T0572,2024-05-06,E071,P025,35043839,Mantenimiento de equipos,Transferencia,Aprobado
+T0573,2025-03-07,E065,P124,39598238,Mantenimiento de equipos,Transferencia,Aprobado
+T0574,2024-08-29,E020,P197,64481613,Dotación hospitalaria,Transferencia,En Revisión
+T0575,2024-10-11,E002,P115,37789828,Mantenimiento de equipos,Transferencia,Aprobado
+T0576,2025-01-07,E007,P151,27679539,Mantenimiento de equipos,Transferencia,Aprobado
+T0577,2025-08-16,E014,P043,27410184,Dotación hospitalaria,Transferencia,Aprobado
+T0578,2024-03-29,E064,P065,29968360,Dotación hospitalaria,Transferencia,Aprobado
+T0579,2024-06-22,E060,P100,34760241,Mantenimiento de equipos,Transferencia,Aprobado
+T0580,2024-06-25,E060,P100,34760241,REFACTURA: Mantenimiento de equipos,Transferencia,Aprobado
+T0581,2024-02-15,E015,P082,35784354,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0582,2025-03-27,E059,P100,20843332,Mantenimiento de equipos,Transferencia,Aprobado
+T0583,2025-12-12,E018,P072,36332139,Mantenimiento de equipos,Transferencia,Aprobado
+T0584,2025-10-12,E032,P003,40454761,Suministro de medicamentos,Transferencia,Aprobado
+T0585,2024-05-10,E068,P190,34734988,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0586,2024-08-23,E017,P126,188437295,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0587,2024-05-27,E020,P064,23817131,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0588,2024-11-23,E046,P164,39319179,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0589,2024-11-30,E068,P007,32268906,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0590,2024-10-09,E007,P113,130284540,Mantenimiento de equipos,Transferencia,En Revisión
+T0591,2025-11-13,E008,P009,32773369,Dotación hospitalaria,Transferencia,Aprobado
+T0592,2024-07-26,E066,P108,19548390,Dotación hospitalaria,Transferencia,Aprobado
+T0593,2024-12-04,E043,P170,10568144,Suministro de medicamentos,Transferencia,Aprobado
+T0594,2025-10-18,E022,P029,17542978,Mantenimiento de equipos,Transferencia,Aprobado
+T0595,2025-03-05,E077,P048,27514814,Mantenimiento de equipos,Transferencia,Aprobado
+T0596,2024-11-14,E049,P020,38123437,Mantenimiento de equipos,Transferencia,Aprobado
+T0597,2024-11-04,E016,P129,97592202,Compra de kits quirúrgicos,Transferencia,En Revisión
+T0598,2025-12-03,E053,P059,40702788,Mantenimiento de equipos,Transferencia,Aprobado
+T0599,2024-10-29,E023,P038,32025892,Mantenimiento de equipos,Transferencia,Aprobado
+T0600,2024-07-07,E077,P162,6289728,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0601,2024-07-10,E077,P162,6289728,REFACTURA: Compra de kits quirúrgicos,Transferencia,Aprobado
+T0602,2025-09-14,E022,P097,32271734,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0603,2024-12-20,E072,P057,23042590,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0604,2024-03-11,E053,P178,34084140,Mantenimiento de equipos,Transferencia,Aprobado
+T0605,2025-07-26,E017,P061,38053614,Suministro de medicamentos,Transferencia,Aprobado
+T0606,2025-08-08,E078,P136,17510654,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0607,2024-07-13,E023,P159,37216077,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0608,2025-02-25,E020,P081,23569880,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0609,2024-07-30,E017,P142,25576054,Mantenimiento de equipos,Transferencia,Aprobado
+T0610,2025-06-10,E042,P095,31387006,Dotación hospitalaria,Transferencia,Aprobado
+T0611,2024-03-26,E020,P051,41960338,Dotación hospitalaria,Transferencia,Aprobado
+T0612,2025-12-18,E030,P165,43851318,Suministro de medicamentos,Transferencia,Aprobado
+T0613,2025-04-12,E028,P041,27302580,Suministro de medicamentos,Transferencia,Aprobado
+T0614,2025-02-21,E015,P186,21199956,Dotación hospitalaria,Transferencia,En Revisión
+T0615,2025-06-25,E059,P171,7842559,Mantenimiento de equipos,Transferencia,Aprobado
+T0616,2024-11-15,E072,P133,18501940,Compra de kits quirúrgicos,Transferencia,Aprobado
+T0617,2024-05-14,E008,P197,33535928,Dotación hospitalaria,Transferencia,Aprobado
+T0618,2025-08-03,E043,P195,34986318,Suministro de medicamentos,Transferencia,Aprobado
+T0619,2025-11-28,E061,P157,146371620,Mantenimiento de equipos,Transferencia,En Revisión
+T0620,2024-04-24,E047,P179,12953497,Dotación hospitalaria,Transferencia,Aprobado
